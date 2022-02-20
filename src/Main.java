@@ -41,7 +41,12 @@ public class Main {
 	}
 
 	private static void multiplicar(double valor1, double valor2) {
-		// TODO Auto-generated method stub
+		double resultado;
+		resultado = valor1 * valor2;
+
+		System.out.println(" ");
+		System.out.println(valor1 + " x " + valor2 + " = " + resultado);
+		System.out.println(" ");
 		
 	}
 
