@@ -21,7 +21,7 @@ public class Main {
 		teclado.close();
 	}
 
-	private static void dividir(double valor1, double valor2) {
+	private static void somar(double valor1, double valor2) {
 		double resultado;
 		resultado = valor1 + valor2;
 
@@ -30,17 +30,17 @@ public class Main {
 		System.out.println(" ");
 	}
 
-	private static void multiplicar(double valor1, double valor2) {
-		// TODO Auto-generated method stub
-		
-	}
-
 	private static void subtrair(double valor1, double valor2) {
 		// TODO Auto-generated method stub
 		
 	}
 
-	private static void somar(double valor1, double valor2) {
+	private static void multiplicar(double valor1, double valor2) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	private static void dividir(double valor1, double valor2) {
 		// TODO Auto-generated method stub
 		
 	}
